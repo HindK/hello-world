@@ -1,4 +1,2 @@
 # hello-world
-Testing: Making Repositories
-User: Hind
-Revision: 2
+Latest: Commiting to master from command-line
