@@ -1,2 +1,4 @@
 # hello-world
-Learning how to make reporsitories
+Testing: Making Repositories
+User: Hind
+Revision: 2
